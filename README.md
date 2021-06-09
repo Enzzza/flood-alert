@@ -12,12 +12,12 @@ Parts needed:
 - Cables
 <br>
 <br>
-***
+
 <br>
 
-![img01](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img01.jpg)
+<img src="https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img01.jpg" data-canonical-src="https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img01.jpg" width="400"/>
 
-<p align = "center">
+<p align = "left">
 Basic schematic diagram
 </p>
 
@@ -30,7 +30,7 @@ Next step is to build prototype.
 
 <img src="https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img02.jpg" data-canonical-src="https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img02.jpg" width="400"/>
 
-<p align = "center">
+<p align = "left">
 Prototype
 </p>
 
@@ -51,13 +51,13 @@ Now we will put it all together. I will use IP55 enclosure box because this box 
 
 <img src="https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img06.jpg" data-canonical-src="https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img06.jpg" width="400" />
 
-<p align = "center">
+<p align = "left">
 Mounting box on the wall
 </p>
 
 <img src="https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img07.jpg" data-canonical-src="https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img07.jpg" width="400" />
 
-<p align = "center">
+<p align = "left">
 Mounting sensor to the bracket
 </p>
 
