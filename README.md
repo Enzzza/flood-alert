@@ -15,7 +15,7 @@ Parts needed:
 ***
 <br>
 
-![img01](https://raw.githubusercontent.com/Enzzza/arduino-clock/main/media/img02.jpg)
+![img01](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img01.jpg)
 
 <p align = "center">
 Basic schematic diagram
@@ -28,7 +28,7 @@ Idea behind this system is when PP Float Switch detect water rising it sends HIG
 Next step is to build prototype.
 <br>
 
-![img02](https://raw.githubusercontent.com/Enzzza/arduino-clock/main/media/img02.jpg)
+![img02](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img02.jpg)
 
 <p align = "center">
 Prototype
@@ -39,23 +39,23 @@ Prototype
 Now we will put it all together. I will use IP55 enclosure box because this box won't be directly exposed to the rain. If your box will be exposed to rain use IP66, IP67 or IP68 type.
 
 
-![img03](https://raw.githubusercontent.com/Enzzza/arduino-clock/main/media/img03.jpg)
+![img03](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img03.jpg)
 
-![img04](https://raw.githubusercontent.com/Enzzza/arduino-clock/main/media/img03.jpg)
+![img04](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img04.jpg)
 
-![img05](https://raw.githubusercontent.com/Enzzza/arduino-clock/main/media/img03.jpg)
+![img05](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img05.jpg)
 
 
 <br>
 <br>
 
-![img06](https://raw.githubusercontent.com/Enzzza/arduino-clock/main/media/img02.jpg)
+![img06](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img06.jpg)
 
 <p align = "center">
 Mounting box on the wall
 </p>
 
-![img07](https://raw.githubusercontent.com/Enzzza/arduino-clock/main/media/img02.jpg)
+![img07](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img07.jpg)
 
 <p align = "center">
 Mounting sensor to the bracket
@@ -69,34 +69,34 @@ Download Blynk App for your smartphone.
 1. Create a Blynk Account
 After you download the Blynk App, you’ll need to create a New Blynk account. This account is separate from the accounts used for the Blynk Forums, in case you already have one.
 
-![img08](https://raw.githubusercontent.com/Enzzza/arduino-clock/main/media/img02.jpg)
+![img08](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img08.jpg)
 
 2. Create a New Project
 After you’ve successfully logged into your account, start by creating a new project.
 
-![img09](https://raw.githubusercontent.com/Enzzza/arduino-clock/main/media/img02.jpg)
+![img09](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img09.jpg)
 
 
 3. Choose Your Hardware
 We will use Esp32
 
-![img10](https://raw.githubusercontent.com/Enzzza/arduino-clock/main/media/img02.jpg)
+![img10](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img10.jpg)
 
 4. Auth Token
 Auth Token is a unique identifier which is needed to connect your hardware to your smartphone. Every new project you create will have its own Auth Token. You’ll get Auth Token automatically on your email after project creation. You can also copy it manually. Click on devices section and selected required device :
 
-![img11](https://raw.githubusercontent.com/Enzzza/arduino-clock/main/media/img02.jpg)
+![img11](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img11.jpg)
 
 And you’ll see token :
 
-![img12](https://raw.githubusercontent.com/Enzzza/arduino-clock/main/media/img02.jpg)
+![img12](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img12.jpg)
 
 NOTE: Don’t share your Auth Token with anyone, unless you want someone to have access to your hardware.
 
 
 Now press the “Create” button.
 
-![img13](https://raw.githubusercontent.com/Enzzza/arduino-clock/main/media/img02.jpg)
+![img13](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img13.jpg)
 
 5. Add a Widget
 
@@ -136,4 +136,4 @@ IPAddress secondary_DNS(8, 8, 4, 4); //optional
 
 Now we can recive push notifications on our smartphone.
 
-![img14](https://raw.githubusercontent.com/Enzzza/arduino-clock/main/media/img02.jpg)
+![img14](https://raw.githubusercontent.com/Enzzza/flood-alert/main/media/img14.jpg)
